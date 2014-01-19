@@ -5,7 +5,7 @@
 <spring:url value="/resources/rtl-support.css" var="rtlSuppotCssUrl"></spring:url>
 <spring:url value="/resources/yaml/core/js/yaml-focusfix.js" var="focusfixUrl"></spring:url>
 <spring:url value="/resources/bootstrap/css/bootstrap.min.css" var="bootstrapCssUrl"></spring:url>
-<spring:url value="/resources/bootstrap/css/bootstrap-responsive.min.css" var="responsiveBootstrapCssUrl"></spring:url>
+<!-- <spring:url value="/resources/bootstrap/css/bootstrap-responsive.min.css" var="responsiveBootstrapCssUrl"></spring:url>-->
 
 <spring:url value="/resources/bootstrap/css/rtl/rtl.css" var="rtlCssUrl"></spring:url>
 <spring:url value="/resources/bootstrap/css/rtl/bootstrap-rtl.min.css" var="rtlBootstrapCssUrl"></spring:url>
